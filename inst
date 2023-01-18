@@ -1,0 +1,5 @@
+# Install Apps
+iex ((New-Object System.Net.WebClient).DownloadString('https://gist.githubusercontent.com/ob1-sc/45e16f2a14619b0c8ccd2651aede05c0/raw'))
+
+# Setup settings:
+iex ((New-Object System.Net.WebClient).DownloadString('https://gist.githubusercontent.com/davtrs/45e16f2a14619b0c8ccd2651aede05c0/raw/054cb13bce27f95f9bdbac40776432ece76dca7d/SetupSettings.ps1'))
